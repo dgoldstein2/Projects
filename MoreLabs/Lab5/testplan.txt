@@ -1,0 +1,5 @@
+My main function includes tests to all functions in the header file that is implemented
+in the cxx file.
+The main file has strings constructed using all of the constructers as well
+as the copy constructors.
+All the operator overloads are tested in the main including the friend ones

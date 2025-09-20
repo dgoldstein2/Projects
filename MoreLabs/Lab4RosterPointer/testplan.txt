@@ -1,0 +1,13 @@
+Test Plan Week 3:
+First test we made sure we could add,remove, and list all work properly.
+for that we used actual test names.
+Then we overloaded the array to test error functions for capacity
+Then we tested if an error was thrown if we tried to remove an id that did not exist.
+We tested if what is thrown if we insert an ID that is already in the code (copy ID)
+
+Revisions to test plan for Lab 4:
+Test max for the roster. Makesure no memory leaks.
+Test over 30 students since that was the old capacity
+The roster should be able to add as many items as possible
+All test cases from last week should still work, except you should be able to add as many 
+students as wanted

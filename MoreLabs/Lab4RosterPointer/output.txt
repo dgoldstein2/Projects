@@ -1,0 +1,280 @@
+1: Student Name: Savannah Rider ID: 3413623
+
+2: Student Name: Israel Seay ID: 6184953
+
+3: Student Name: Maryam Whittaker ID: 5206281
+
+4: Student Name: Bruno Haddad ID: 4445543
+
+5: Student Name: Armani Lindberg ID: 5214769
+
+6: Student Name: Jaslyn Hoover ID: 4789469
+
+7: Student Name: Andres Ratcliff ID: 4231027
+
+8: Student Name: Stephen Corbin ID: 7337401
+
+9: Student Name: Matilda Finney ID: 3846009
+
+10: Student Name: Issac Lemons ID: 5605535
+
+11: Student Name: Oliver Muniz ID: 7515575
+
+12: Student Name: Issac Wyatt ID: 6983035
+
+13: Student Name: Eve Elam ID: 4352812
+
+14: Student Name: Brody Odell ID: 7487480
+
+15: Student Name: Jordan Rowe ID: 6002675
+
+16: Student Name: Samiya Purcell ID: 3515951
+
+17: Student Name: Hendy Winslow ID: 5155225
+
+18: Student Name: Ismael Grogan ID: 5940738
+
+19: Student Name: Milan Goddard ID: 5659490
+
+20: Student Name: Jair Smallwood ID: 4301631
+
+21: Student Name: Hayden Doss ID: 6407728
+
+22: Student Name: Izaiah Vick ID: 4337681
+
+23: Student Name: Tiffany Guy ID: 6206360
+
+24: Student Name: Khaleesi Brewster ID: 7680334
+
+25: Student Name: Kailyn Vines ID: 5767266
+
+26: Student Name: Dilan Hail ID: 6037934
+
+27: Student Name: Sonny Nadeau ID: 3483598
+
+28: Student Name: Asher Alston ID: 4980786
+
+29: Student Name: Malaysia Burke ID: 3281091
+
+30: Student Name: Maximus Santillan ID: 5160499
+
+31: Student Name: Annie Neely ID: 7080394
+
+32: Student Name: Moussa Holcomb ID: 6781220
+
+33: Student Name: Addison Chavez ID: 3434649
+
+34: Student Name: Idy Pantoja ID: 6057966
+
+35: Student Name: Ace Mcgregor ID: 7490441
+
+36: Student Name: Zachariah Gruber ID: 4138564
+
+37: Student Name: Parizoda Olvera ID: 7692938
+
+1: Student Name: Savannah Rider ID: 3413623
+
+2: Student Name: Israel Seay ID: 6184953
+
+3: Student Name: Maryam Whittaker ID: 5206281
+
+4: Student Name: Bruno Haddad ID: 4445543
+
+5: Student Name: Armani Lindberg ID: 5214769
+
+6: Student Name: Jaslyn Hoover ID: 4789469
+
+7: Student Name: Andres Ratcliff ID: 4231027
+
+8: Student Name: Stephen Corbin ID: 7337401
+
+9: Student Name: Matilda Finney ID: 3846009
+
+10: Student Name: Issac Lemons ID: 5605535
+
+11: Student Name: Oliver Muniz ID: 7515575
+
+12: Student Name: Issac Wyatt ID: 6983035
+
+13: Student Name: Eve Elam ID: 4352812
+
+14: Student Name: Brody Odell ID: 7487480
+
+15: Student Name: Jordan Rowe ID: 6002675
+
+16: Student Name: Samiya Purcell ID: 3515951
+
+17: Student Name: Hendy Winslow ID: 5155225
+
+18: Student Name: Ismael Grogan ID: 5940738
+
+19: Student Name: Milan Goddard ID: 5659490
+
+20: Student Name: Jair Smallwood ID: 4301631
+
+21: Student Name: Hayden Doss ID: 6407728
+
+22: Student Name: Izaiah Vick ID: 4337681
+
+23: Student Name: Tiffany Guy ID: 6206360
+
+24: Student Name: Khaleesi Brewster ID: 7680334
+
+25: Student Name: Kailyn Vines ID: 5767266
+
+26: Student Name: Dilan Hail ID: 6037934
+
+27: Student Name: Sonny Nadeau ID: 3483598
+
+28: Student Name: Asher Alston ID: 4980786
+
+29: Student Name: Malaysia Burke ID: 3281091
+
+30: Student Name: Maximus Santillan ID: 5160499
+
+31: Student Name: Annie Neely ID: 7080394
+
+32: Student Name: Moussa Holcomb ID: 6781220
+
+33: Student Name: Addison Chavez ID: 3434649
+
+34: Student Name: Idy Pantoja ID: 6057966
+
+35: Student Name: Ace Mcgregor ID: 7490441
+
+36: Student Name: Zachariah Gruber ID: 4138564
+
+37: Student Name: Parizoda Olvera ID: 7692938
+
+38: Student Name: Amelia Koneig ID: 5476982
+
+39: Student Name: Taylor Carlson ID: 234789
+
+Student Name: Addison Chavez ID: 3434649
+ removed.
+Student Name: Moussa Holcomb ID: 6781220
+ removed.
+Student Name: Zachariah Gruber ID: 4138564
+ removed.
+Student Name: Ace Mcgregor ID: 7490441
+ removed.
+Student Name: Matilda Finney ID: 3846009
+ removed.
+Student Name: Dilan Hail ID: 6037934
+ removed.
+Student Name: Hayden Doss ID: 6407728
+ removed.
+Student Name: Jordan Rowe ID: 6002675
+ removed.
+Student Name: Hendy Winslow ID: 5155225
+ removed.
+Student Name: Issac Wyatt ID: 6983035
+ removed.
+Student Name: Jaslyn Hoover ID: 4789469
+ removed.
+Student Name: Savannah Rider ID: 3413623
+ removed.
+Student Name: Israel Seay ID: 6184953
+ removed.
+Student Name: Maryam Whittaker ID: 5206281
+ removed.
+Student Name: Bruno Haddad ID: 4445543
+ removed.
+Student Name: Armani Lindberg ID: 5214769
+ removed.
+Student Name: Andres Ratcliff ID: 4231027
+ removed.
+Student Name: Stephen Corbin ID: 7337401
+ removed.
+Student Name: Issac Lemons ID: 5605535
+ removed.
+Student Name: Oliver Muniz ID: 7515575
+ removed.
+Student Name: Eve Elam ID: 4352812
+ removed.
+Student Name: Brody Odell ID: 7487480
+ removed.
+Student Name: Samiya Purcell ID: 3515951
+ removed.
+Student Name: Ismael Grogan ID: 5940738
+ removed.
+Student Name: Milan Goddard ID: 5659490
+ removed.
+Student Name: Jair Smallwood ID: 4301631
+ removed.
+Student Name: Izaiah Vick ID: 4337681
+ removed.
+Student Name: Tiffany Guy ID: 6206360
+ removed.
+Student Name: Khaleesi Brewster ID: 7680334
+ removed.
+Student Name: Kailyn Vines ID: 5767266
+ removed.
+Student Name: Sonny Nadeau ID: 3483598
+ removed.
+Student Name: Asher Alston ID: 4980786
+ removed.
+Student Name: Malaysia Burke ID: 3281091
+ removed.
+cannot remove student
+cannot remove student
+1: Student Name: Maximus Santillan ID: 5160499
+
+2: Student Name: Annie Neely ID: 7080394
+
+3: Student Name: Idy Pantoja ID: 6057966
+
+4: Student Name: Parizoda Olvera ID: 7692938
+
+5: Student Name: Amelia Koneig ID: 5476982
+
+6: Student Name: Taylor Carlson ID: 234789
+
+cannot insert student, ID already entered
+
+1: Student Name: Maximus Santillan ID: 5160499
+
+2: Student Name: Annie Neely ID: 7080394
+
+3: Student Name: Idy Pantoja ID: 6057966
+
+4: Student Name: Parizoda Olvera ID: 7692938
+
+5: Student Name: Amelia Koneig ID: 5476982
+
+6: Student Name: Taylor Carlson ID: 234789
+
+7: Student Name: Miah Wright ID: 5787520
+
+8: Student Name: Cooper Crum ID: 4996076
+
+9: Student Name: Eddie Archer ID: 7664206
+
+10: Student Name: Bryce Griggs ID: 7814075
+
+11: Student Name: Mason Mccabe ID: 4601853
+
+12: Student Name: Carmelo Mcclain ID: 6625807
+
+13: Student Name: Lev Cuevas ID: 6137757
+
+14: Student Name: Neymar Cosby ID: 4181514
+
+15: Student Name: Zain Hoang ID: 4827503
+
+16: Student Name: Jaylee Marlow ID: 7396176
+
+17: Student Name: Anjali Kopp ID: 3934558
+
+18: Student Name: Emmanuella Garland ID: 4410740
+
+19: Student Name: Darius Schulte ID: 7060922
+
+20: Student Name: Jaylen Lozano ID: 3958530
+
+21: Student Name: Dalia Robinson ID: 3006598
+
+22: Student Name: Cayden Barrios ID: 4057500
+
+23: Student Name: Edward Page ID: 7076935
+

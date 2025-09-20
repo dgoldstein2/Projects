@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dakotagoldstein/Documents/gitHub/CSEN-79/Lab5/mainstring'
+relocations:     []
+...
